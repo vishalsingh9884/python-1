@@ -1,4 +1,4 @@
-This cookbook includes support for running tests via Test Kitchen (1.0). This has some requirements.
+This amazing cookbook includes support for running tests via Test Kitchen (1.0). This has some requirements.
 
 1. You must be using the Git repository, rather than the downloaded cookbook from the Chef Community Site.
 2. You must have Vagrant 1.1 installed.
